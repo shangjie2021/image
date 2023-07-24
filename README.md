@@ -1,3 +1,4 @@
 # image
 used in MD file
-PicGo token: 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
+PicGo token: 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
+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
